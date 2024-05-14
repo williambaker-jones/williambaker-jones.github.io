@@ -240,7 +240,7 @@ body {
 	line-height: 25px;
 	font-family: 'Open Sans',Arial, Helvetica, sans-serif; 
 	font-weight: normal;
-	color: #6b6d6f;
+	color: #0080ff;
 	background-color: #fff;
 	-webkit-font-smoothing: antialiased !important;
 	-webkit-text-size-adjust: 100% !important;
@@ -5968,6 +5968,7 @@ select.input-border {
 
 .font-white, .font-white a{color:#fff !important;}
 .font-black, .font-black a{color:#323336 !important;}
+.font-grey, .font-grey a{color:#303036 !important;}
 .font-dark {color:#101010;}
 .font-yellow {color:#f2e13c;}
 .font-purple {color:#676bb8;}
@@ -6169,7 +6170,7 @@ select.input-border {
 }
 
 .header-black #main-menu .navbar .nav > li > a {
-  color: #fff;
+  color: #323336;
 }
 #main-menu .navbar .nav li a {
   font-family: 'Poppins',Arial,Helvetica,sans-serif;
@@ -6207,8 +6208,8 @@ select.input-border {
 	color:#323336; 
 }
 .header-black #main-menu .navbar .nav > li.current > a {
-	border-bottom: 2px solid rgba(255,255,255,1);
-	color:#fff; 
+	border-bottom: 2px solid rgba(48,48,54,1);
+	color:#303036; 
 }
 .affix.header-1 #main-menu .navbar .nav > li.current > a{
   margin-bottom: 13px;
@@ -6261,9 +6262,9 @@ select.input-border {
 	font-size:18px;
 	font-weight:100 !important;
 	padding:12px;
-	border:2px solid #a3a7ad;
+	border:2px solid #323336;
 	border-radius: 50%;
-	color:#a3a7ad;
+	color:#323336;
 	height:46px;
 	width:46px;
 }
@@ -6284,7 +6285,7 @@ select.input-border {
   color: rgba(42,43,47, 1);
 }
 .header-black #main-menu .navbar .nav > li:hover > a {
-  color: rgba(255,255,255, .75); 
+  color: rgba(255,255,255, 1); 
 }
 .affix.header-black #main-menu .navbar .nav > li:hover > a {
   color: rgba(255,255,255, 1); 
